@@ -1,0 +1,21 @@
+# Ignore Python virtual environment
+venv/
+ENV/
+.venv/
+env/
+
+.env
+*.env
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+.vscode/
+
+.DS_Store
+
+*.log
