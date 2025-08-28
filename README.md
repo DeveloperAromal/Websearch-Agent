@@ -142,7 +142,7 @@ This approach is powerful because it combines:
 With just \~40 lines of code, you’ve got the foundation for an **AI research assistant, news bot, or productivity tool**.
 
 💡 Did you find this useful?
-Drop a ❤️ on this post and share your version of the agent in the comments. also follow me
+Drop a ⭐ on this repo and follow me on github
 
 Happy coding 
 
